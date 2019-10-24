@@ -10,5 +10,9 @@ require "test/cli"
 # require "pry"
 # Pry.start
 
+#def reload!
+#  load ".lib/recipes_book/recipes.rb"
+#end
+
 require "irb"
 IRB.start(__FILE__)
